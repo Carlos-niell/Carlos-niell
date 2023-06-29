@@ -2,7 +2,7 @@
 
 <h1 align="center">Olá.👋 Eu me chamo Carlos Daniel Ramos</h1>
 
-<h3 align="center">Desenvolvedor Full-Stack</h3>
+<h3 align="center">Desenvolvedor Full-Stack 👨🏾‍💻</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
