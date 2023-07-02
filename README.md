@@ -10,7 +10,7 @@
 
 - 🔭 Atualmento estou trabalhando de **Freelancers**
 
-- 🌱 No momento estou graduando **Engenharia de Software**
+- 🌱 No momento estou graduando  em**Engenharia de Software 01/07**
 
 - 👯 Estou querendo colaborar com projetos  **Open-soucer**
 
