@@ -12,7 +12,7 @@
 
 - 🌱 No momento estou graduando  em **Engenharia de Software 01/07**
 
-- 👯 Estou querendo colaborar com projetos  **Open-soucer**
+- 👯 Estou querendo colaborar com projetos  **Open-Source**
 
 - 📫 Como chegar até mim **carlosfapro22@gmail.com**
 
