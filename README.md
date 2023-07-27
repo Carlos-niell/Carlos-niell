@@ -1,4 +1,4 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 <h1 align="center">Olá.👋 Eu me chamo Carlos Daniel Ramos</h1>
 
@@ -25,3 +25,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-niell&show_icons=true&theme=transparent" alt="carlos-niell" /></p>
 
 ![Carlos Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-niell&show_icons=true&theme=transparent)
+
