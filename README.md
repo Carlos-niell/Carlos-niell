@@ -10,7 +10,7 @@
 
 - 🔭 Atualmento estou trabalhando de **Projetos Pessoais**
 
-- 🌱 No momento estou graduando  em **Engenharia de Software 01/07**
+- 🌱 No momento estou graduando  em **Engenharia de Software 02/07**
 
 - 📫 Como chegar até mim **carlosfapro22@gmail.com**
 
