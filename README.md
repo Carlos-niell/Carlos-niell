@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-niell&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-niell" /> </p>
 
-- 🔭 Atualmento estou trabalhando de **Projetos Pessoais**
+- 🔭 Atualmento estou trabalhando em **Projetos Pessoais**
 
 - 🌱 No momento estou graduando  em **Engenharia de Software 03/07**
 
