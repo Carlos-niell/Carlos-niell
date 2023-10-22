@@ -132,7 +132,7 @@
   </tr>
   </table>
 
-  <img align="center" src="imagens/contate-me.png" width="100%" alt="Título da seção Contato" />
+  <img align="center" src="imagens/contate-me.png" width="100%" alt=" Contato" />
 <hr/>
 
 <div align="center">
