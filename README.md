@@ -4,25 +4,148 @@
 
 <h3 align="center"> 👨🏾‍💻 Desenvolvedor Back - End | Front - End | Full - Stack 👨🏾‍💻 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="130" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-niell&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-niell" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-niell&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-niell" /> 
 
-- 🔭 Atualmento estou trabalhando em **Projetos Pessoais**
-
-- 🌱 No momento estou graduando  em **Engenharia de Software 03/07**
-
-- 📫 Como chegar até mim **carlosfapro22@gmail.com**
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/carlos-daniel-ramos-399940b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/carlos-daniel-ramos-399940b1" height="30" width="40" /></a>
 </p>
+<br/><br/>
+<img align="center"<br/>
+<img align="center" src="imagens/Sobre mim.png" width="100%" alt="Título da seção Sobre Mim" />
+<hr/>
+
+<br/>
+  <p>Atuei como entregador por 4 anos, e em 2021 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia e Games, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Engenharia de Softwares onde tenho confirmado a cada dia que tomei a melhor decisão.</p>
+
+  <p>Atualmente faço parte do curso da <a href="https://www.dio.me/" target="_blank">Dio</a> e tambem faço cursos complementares na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>, <a href="https://www.cursoemvideo.com/cursos/" target="_blank">Curso em  vídeo</a> / <a href="https://www.cursoemvideo.com/" target="_blank">Curso em Video</a>, e <a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank">Udemy, DevMedia</a> <p>Busco ingressar na área de tecnologia e venho desenvolvendo competências voltados ao desenvolvimento web que abrange <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Javascript</a>, e tenho desejo de aprender cada vez mais, estou sempre buscando novas tecnologias.</li> 
+     <p>  
+    <details>
+      <summary>Curiosidades sobre mim</summary>
+      <ul>
+        <li> Sou natural de <a href="https://pt.wikipedia.org/wiki/Bras%C3%ADlia" target="_blank">Brasília/DF</a></li>  
+        <li>Gosto de ler e Pilota moto.</li>
+        <li> Estou lendo atualmente <a href="https://www.amazon.com.br/Estruturas-Dados-Algoritmos-Com-Javascript/dp/8575226932/ref=sr_1_1?crid=3M0ZDE85AUTEY&keywords=estrutura+de+dados+e+algoritmos&qid=1697933896&sprefix=estru%2Caps%2C385&sr=8-1" target="_blank">Estrutura de dados e algoritmos com JavaScript</a></li>
+        <li>Gosto de ouvir podcasts, os principais que escuto são: <a href="https://open.spotify.com/show/2kCrTjsGn431qiGpl9quAl?si=2cd20d63599c4668" target="_blank">Dev em dobro.</a> ,<a href="https://open.spotify.com/show/14jalMOh1Jr77eTRUdN6X9?si=d50fe5c8b5da4345" target="_blank"> Inteligência Ltda.</a> , <a href="https://open.spotify.com/show/7kLgm2CDG4aontuQOluFwb" target="_blank"> Código fonte</a>, 
+        <a href="https://open.spotify.com/show/2XyVyDbnjlhojU0qsdR3zq?si=a92e3439f1eb4bef" target="_blank"> FalaDev</a>,
+        <a href="https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf" target="_blank">Hipsters Ponto Tech</a>
+      </ul>
+    </details>
+<hr/>
+
+<br/>
+  <p></p>
+
+  <p><a href="https://github.com/devemdobro" target="_blank"></a> <a href="https://www.rocketseat.com.br/" target="_blank"></a><a href="https://estudonauta.com" target="_blank"></a><a href="https://www.cursoemvideo.com/" target="_blank"></a><a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank"></a><p><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"></a></li> 
+
 
 <h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="left"> 
+
+
+<table align="center" height="185px">
+<tr>
+   <td >
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
+        <img src="https://skillicons.dev/icons?i=html" width="55px" alt="HTML5 icon"/><br/>
+        <sub>
+          <b>
+            <pre>HTML5</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
+        <img src="https://skillicons.dev/icons?i=css" width="55px" alt="CSS3 icon"/><br/>
+        <sub>
+          <b>
+            <pre>CSS3</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+     <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=js" width="55px" alt="Javascript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Javascript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/">
+        <img src="https://skillicons.dev/icons?i=github" width="55px" alt="Github icon"/><br/>
+        <sub>
+          <b>
+            <pre>GitHub</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+</table>
+
+<hr/>
+<table align="center" height="185px">
+ <tr>
+    <td align="center">
+      <a href="https://git-scm.com/downloads">
+        <img src="https://skillicons.dev/icons?i=git" width="55px" alt="bash icon"/><br/>
+        <sub>
+          <b>
+            <pre>Terminal</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://skillicons.dev/icons?i=vscode" width="55px" alt="visual studio code icon"/><br/>
+        <sub>
+          <b>
+            <pre>VSCode</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.figma.com/ui-design-tool/">
+        <img src="https://skillicons.dev/icons?i=figma" width="55px" alt="Figma icon"/><br/>
+        <sub>
+          <b>
+            <pre>Figma</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.notion.so/pt-br">
+        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png" width="55px" alt="Notion icon"/><br/>
+        <sub>
+          <b>
+            <pre>Notion</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+  </table>
+
+  <img align="center" src="imagens/contate-me.png" width="100%" alt="Título da seção Contato" />
+<hr/>
+
+<div align="center">
+
+
+<br/><br/>
+
+ [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosddaniel/)  [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://carlos.carlosfapro22@gmail.com) [![discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com//.carlosddaniel) 
+ 
+</div>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-niell&show_icons=true&theme=transparent" alt="carlos-niell" /></p>
 
 ![Carlos Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-niell&show_icons=true&theme=transparent)
-
