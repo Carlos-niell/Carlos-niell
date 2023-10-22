@@ -11,7 +11,7 @@
 </p>
 <br/><br/>
 <img align="center"<br/>
-<img align="center" src="imagens/Sobre mim.png" width="100%" alt="Título da seção Sobre Mim" />
+<img align="center" src="imagens/Sobre mim.png" width="100%" alt="Sobre Mim" />
 <hr/>
 
 <br/>
