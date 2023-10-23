@@ -1,4 +1,4 @@
-u<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 <h1 align="center">Olá.👋 Eu me chamo Carlos Daniel Ramos</h1>
 
