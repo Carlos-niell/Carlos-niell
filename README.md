@@ -4,7 +4,7 @@
 
 <h3 align="center"> 👨🏾‍💻 Desenvolvedor Back - End | Front - End | Full - Stack 👨🏾‍💻 </h3>
 
-<img align="right" alt="Coding" width="130" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="150" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-niell&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-niell" /> 
 
@@ -36,8 +36,8 @@
   <p><a href="https://github.com/devemdobro" target="_blank"></a> <a href="https://www.rocketseat.com.br/" target="_blank"></a><a href="https://estudonauta.com" target="_blank"></a><a href="https://www.cursoemvideo.com/" target="_blank"></a><a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank"></a><p><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"></a></li> 
 
 
-<h3 align="left">Linguagens e ferramentas:</h3>
-<p align="left"> 
+<h3 align="Center">Linguagens e ferramentas:</h4>
+<p align="Center"> 
 
 
 <table align="center" height="185px">
