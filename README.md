@@ -145,7 +145,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-niell&show_icons=true&theme=transparent" alt="carlos-niell" /></p>
 
-![contate-me](https://github.com/Carlos-niell/Carlos-niell/assets/114493985/68dd426a-014a-4225-967b-3f914c27dffd)
+
 
 
 
