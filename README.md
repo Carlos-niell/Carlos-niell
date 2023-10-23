@@ -8,11 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-niell&label=Profile%20views&color=0e75b6&style=flat" alt="carlos-niell" /> 
 
-</p>
-<br/><br/>
-<img align="center"<br/>
-<img align="center" src="imagens/Sobre mim.png" width="100%" alt="Sobre Mim" />
-<hr/>
+
+ ![Sobre mim](https://github.com/Carlos-niell/Carlos-niell/assets/114493985/59349ce6-ef9e-4eb1-8bcc-f4fd359f35f7)
+
 
 <br/>
   <p>Atuei como entregador por 4 anos, e em 2021 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia e Games, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Engenharia de Softwares onde tenho confirmado a cada dia que tomei a melhor decisão.</p>
@@ -132,7 +130,8 @@
   </tr>
   </table>
 
-  <img align="center" src="imagens/contate-me.png" width="100%" alt="Título da seção Contato" />
+ ![contate-me](https://github.com/Carlos-niell/Carlos-niell/assets/114493985/68dd426a-014a-4225-967b-3f914c27dffd)
+
 <hr/>
 
 <div align="center">
@@ -144,8 +143,10 @@
  
 </div>
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-niell&show_icons=true&theme=transparent" alt="carlos-niell" /></p>
 
-![Carlos Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=carlos-niell&show_icons=true&theme=transparent)
+![contate-me](https://github.com/Carlos-niell/Carlos-niell/assets/114493985/68dd426a-014a-4225-967b-3f914c27dffd)
+
+
+
+
