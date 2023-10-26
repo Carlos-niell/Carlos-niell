@@ -135,6 +135,8 @@
 <hr/>
 
 <div align="center">
+
+</br><br>
  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosddaniel/)  [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://carlos.carlosfapro22@gmail.com) [![discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com//.carlosddaniel) 
  
 </div>
