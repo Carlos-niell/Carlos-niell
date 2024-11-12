@@ -13,7 +13,7 @@
 
 
 <br/>
-  <p>Atualmente trabalho como motoboy, e em  meados de 2022 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia e Games, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Engenharia de Softwares onde tenho confirmado a cada dia que tomei a melhor decisão.</p>
+  <p>Atualmente trabalho como motoboy, e em  meados de 2023 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia e Games, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Engenharia de Softwares onde tenho confirmado a cada dia que tomei a melhor decisão.</p>
 
   <p>Atualmente estudo em cursos da <a href="https://www.dio.me/" target="_blank">Dio</a> e tambem faço cursos complementares na <a href="https://www.rocketseat.com.br/" target="_blank">Rocketseat</a>,<a href="https://www.cursoemvideo.com/cursos/" target="_blank">Curso em  vídeo</a><a href="https://www.cursoemvideo.com/" target="_blank"></a>,<a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank">Udemy, e DevMedia</a> <p>Busco ingressar na área de tecnologia e venho desenvolvendo competências voltados ao desenvolvimento web que abrange <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">HTML</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank">CSS</a> , <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">Javascript</a>, e tenho desejo de aprender cada vez mais, estou sempre buscando novas tecnologias.</li> 
      <p>  
