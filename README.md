@@ -44,7 +44,7 @@
  
 </div>
 
-<p><img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-niell&show_icons=true&theme=transparent" alt="carlos-niell" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-niell&show_icons=true&theme=transparent" alt="carlos-niell" /></p>
 
 
 
