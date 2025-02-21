@@ -1,3 +1,4 @@
+
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png">
 
 <h1 align="center">Olá.👋 Eu me chamo Carlos Daniel Ramos</h1>
@@ -13,7 +14,7 @@
 
 
 <br/>
-  <p>Atualmente trabalho como motoboy, e em  meados de 2024 decidi mudar minha carreira profissional. Por um misto de gostar de tecnologia e Games, curiosidade e ânsia por crescimento pessoal, dei início aos estudos em Engenharia de Softwares onde tenho confirmado a cada dia que tomei a melhor decisão.</p>
+  <p>Trabalho como motoboy, mas em 2024 tomei a decisão de mudar de carreira. Apaixonado por tecnologia e jogos, e impulsionado pela curiosidade e pelo desejo de evolução, iniciei meus estudos em Engenharia de Software. Cada dia que passa, tenho mais certeza de que essa foi a melhor decisão.</p>
     <details>
       <summary>Curiosidades sobre mim</summary>
       <ul>
@@ -32,101 +33,6 @@
 
   <p><a href="https://github.com/devemdobro" target="_blank"></a> <a href="https://www.rocketseat.com.br/" target="_blank"></a><a href="https://estudonauta.com" target="_blank"></a><a href="https://www.cursoemvideo.com/" target="_blank"></a><a href="https://www.udemy.com/courses/search/?src=ukw&q=front+end" target="_blank"></a><p><a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"></a><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"></a></li> 
 
-
-<h3 align="Center">Linguagens e ferramentas:</h4>
-<p align="Center"> 
-
-
-<table align="center" height="185px">
-<tr>
-   <td >
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/">
-        <img src="https://skillicons.dev/icons?i=html" width="55px" alt="HTML5 icon"/><br/>
-        <sub>
-          <b>
-            <pre>HTML5</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS/">
-        <img src="https://skillicons.dev/icons?i=css" width="55px" alt="CSS3 icon"/><br/>
-        <sub>
-          <b>
-            <pre>CSS3</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-     <td align="center">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
-        <img src="https://skillicons.dev/icons?i=js" width="55px" alt="Javascript icon"/><br/>
-        <sub>
-          <b>
-            <pre>Javascript</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/">
-        <img src="https://skillicons.dev/icons?i=github" width="55px" alt="Github icon"/><br/>
-        <sub>
-          <b>
-            <pre>GitHub</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-</table>
-
-<hr/>
-<table align="center" height="185px">
- <tr>
-    <td align="center">
-      <a href="https://git-scm.com/downloads">
-        <img src="https://skillicons.dev/icons?i=git" width="55px" alt="bash icon"/><br/>
-        <sub>
-          <b>
-            <pre>Terminal</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://skillicons.dev/icons?i=vscode" width="55px" alt="visual studio code icon"/><br/>
-        <sub>
-          <b>
-            <pre>VSCode</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.figma.com/ui-design-tool/">
-        <img src="https://skillicons.dev/icons?i=figma" width="55px" alt="Figma icon"/><br/>
-        <sub>
-          <b>
-            <pre>Figma</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.notion.so/pt-br">
-        <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778642/noticon/kjaaizycfgz017qxvlnu.png" width="55px" alt="Notion icon"/><br/>
-        <sub>
-          <b>
-            <pre>Notion</pre>
-          </b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-  </table>
-
  ![contate-me](https://github.com/Carlos-niell/Carlos-niell/assets/114493985/68dd426a-014a-4225-967b-3f914c27dffd)
 
 <hr/>
@@ -139,7 +45,6 @@
 </div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-niell&show_icons=true&theme=transparent" alt="carlos-niell" /></p>
-
 
 
 
