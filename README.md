@@ -21,7 +21,7 @@
         <li> Sou natural de <a href="https://pt.wikipedia.org/wiki/Bras%C3%ADlia" target="_blank">Brasília/DF</a></li>  
         <li>Gosto de ler e Pilota moto.</li>
         <li> Estou lendo atualmente <a href="Introdução à Linguagem SQL https://a.co/d/bfQ31wF" target="_blank">Introdução ao SQL</a></li>
-        <li>Gosto de ouvir podcasts, os principais que escuto são: <a href="https://www.youtube.com/watch?v=666m6E4mqkc&list=PLHz_AreHm4dlAL49NfFvf7lUP2jrcMlYQ" target="_blank">Curso em video.</a> ,<a href="https://open.spotify.com/show/14jalMOh1Jr77eTRUdN6X9?si=d50fe5c8b5da4345" target="_blank"> Inteligência Ltda.</a> , <a href="https://open.spotify.com/show/7kLgm2CDG4aontuQOluFwb" target="_blank"> Código fonte</a>, 
+        <li>Gosto de ouvir podcasts, os principais que escuto são: <a href="https://www.youtube.com/watch?v=666m6E4mqkc&list=PLHz_AreHm4dlAL49NfFvf7lUP2jrcMlYQ" target="_blank">Curso em video.</a> ,<a href="https://open.spotify.com/show/14jalMOh1Jr77eTRUdN6X9?si=d50fe5c8b5da4345" target="_blank"> Inteligência Ltda.</a><a href="https://open.spotify.com/show/7kLgm2CDG4aontuQOluFwb" target="_blank"> Código fonte</a>, 
         <a href="https://open.spotify.com/show/2XyVyDbnjlhojU0qsdR3zq?si=a92e3439f1eb4bef" target="_blank"> FalaDev</a>,
    
       </ul>
