@@ -63,8 +63,6 @@
   <a href="mailto:carlos.carlosfapro22@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
   </a>
-  <a href="https://discord.com/.carlosddaniel" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord Badge">
   </a>
   <br>
   <br>
