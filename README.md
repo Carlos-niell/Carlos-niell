@@ -14,17 +14,22 @@
 
   <div align="left">
     <img src="https://github.com/Carlos-niell/Carlos-niell/assets/114493985/59349ce6-ef9e-4eb1-8bcc-f4fd359f35f7" alt="Sobre mim">
-    <p>Atualmente, sou estagiário em Desenvolvimento APEX e concilio esta jornada com meu trabalho de motoboy. Em 2024, decidi fazer uma mudança significativa, investindo na minha paixão por tecnologia. Sou estudante de Engenharia de Software na Faculdade Estácio, com o objetivo de me tornar um desenvolvedor de software altamente qualificado. Meu foco é impactar a vida de outras pessoas, criando soluções viáveis para problemas relevantes.</p>
-  </div>
+   <p>Atualmente, atuo como estagiário em Desenvolvimento APEX no Senado Federal, onde crio soluções e workflows complexos, como sistemas de gestão de afastamentos. Concilio minha rotina técnica focada no backend (SQL e PL/SQL) com meu trabalho de motoboy nos turnos da tarde e noite, o que me ensinou muito sobre disciplina e gestão de tempo.</p> 
 
-  <div align="left">
-    <details>
-      <summary>Curiosidades sobre mim</summary>
-      <ul>
-        <li>Sou natural de <a href="https://pt.wikipedia.org/wiki/Bras%C3%ADlia" target="_blank">Brasília/DF</a>.</li>
-        <li>Gosto de ler e pilotar moto.</li>
-        <li>Estou lendo atualmente: <a href="https://a.co/d/bfQ31wF" target="_blank">Introdução à Linguagem SQL</a>.</li>
-        <li>Gosto de ouvir podcasts. Os principais que escuto são: <a href="https://www.youtube.com/watch?v=666m6E4mqkc&list=PLHz_AreHm4dlAL49NfFvf7lUP2jrcMlYQ" target="_blank">Curso em Vídeo</a>, <a href="https://open.spotify.com/show/0" target="_blank">Inteligência Ltda.</a>, <a href="https://open.spotify.com/show/1" target="_blank">Código Fonte</a>, e <a href="https://open.spotify.com/show/2" target="_blank">FalaDev</a>.</li>
+  <p>Em 2024, dei um passo decisivo na minha transição de carreira para a tecnologia. Sou estudante do 4º semestre de Engenharia de Software na Faculdade Estácio e busco me tornar um desenvolvedor. Meu foco é impactar a vida de outras pessoas traduzindo regras de negócio em soluções eficientes e viáveis.</p>
+</div>
+
+<div align="left">
+  <details>
+    <summary>Curiosidades sobre mim</summary>
+    <ul>
+      <li>Sou natural de <a href="https://pt.wikipedia.org/wiki/Bras%C3%ADlia" target="_blank">Brasília/DF</a>.</li>
+      <li>Gosto de ler, ouvir podcasts de tecnologia e pilotar moto.</li>
+      <li>Estou lendo atualmente: <a href="https://a.co/d/bfQ31wF" target="_blank">Introdução à Linguagem SQL</a>, aprofundando minha base de dados.</li>
+      <li>Os principais podcasts que escuto são: <a href="https://www.youtube.com/watch?v=666m6E4mqkc&list=PLHz_AreHm4dlAL49NfFvf7lUP2jrcMlYQ" target="_blank">Curso em Vídeo</a>, <a href="https://open.spotify.com/show/0" target="_blank">Inteligência Ltda.</a>, <a href="https://open.spotify.com/show/1" target="_blank">Código Fonte</a>, e <a href="https://open.spotify.com/show/2" target="_blank">FalaDev</a>.</li>
+    </ul>
+  </details>
+</div>
       </ul>
     </details>
   </div>
