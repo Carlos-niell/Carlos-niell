@@ -14,7 +14,7 @@
 
   <div align="left">
     <img src="https://github.com/Carlos-niell/Carlos-niell/assets/114493985/59349ce6-ef9e-4eb1-8bcc-f4fd359f35f7" alt="Sobre mim">
-   <p>Atualmente, atuo como estagiário em Desenvolvimento APEX no Senado Federal, onde crio soluções e workflows complexos, como sistemas de gestão de afastamentos. Concilio minha rotina técnica focada no backend (SQL e PL/SQL) com meu trabalho de motoboy nos turnos da tarde e noite, o que me ensinou muito sobre disciplina e gestão de tempo.</p> 
+   <p>Atualmente, atuo como estagiário em Desenvolvimento APEX no Senado Federal, onde crio soluções e workflows complexos, concilio minha rotina técnica focada no backend (SQL e PL/SQL) com meu trabalho de motoboy nos turnos da tarde e noite, o que me ensinou muito sobre disciplina e gestão de tempo.</p> 
 
   <p>Em 2024, dei um passo decisivo na minha transição de carreira para a tecnologia. Sou estudante do 4º semestre de Engenharia de Software na Faculdade Estácio e busco me tornar um desenvolvedor. Meu foco é impactar a vida de outras pessoas traduzindo regras de negócio em soluções eficientes e viáveis.</p>
 </div>
